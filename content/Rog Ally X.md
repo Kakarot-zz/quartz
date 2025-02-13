@@ -3,8 +3,8 @@ title: Rog Ally X
 description: Portable gaming device 
 draft: false
 tags:
-  - 掌机
   - Gaming Device
+  - Rog Ally X
 ---
 
 在前前后后，在折腾rog幻系列的轻薄游戏本之后，还是回归了macbookpro + 游戏掌机的生态中 。 这篇不涉及笔记本，主要讲讲这个掌机~~吧( 说机不说吧，文明你我他)~~
