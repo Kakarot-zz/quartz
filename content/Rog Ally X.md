@@ -2,6 +2,7 @@
 title: Rog Ally X
 description: Portable gaming device 
 draft: false
+date: 2025-01-16
 tags:
   - Gaming Device
   - Rog Ally X
