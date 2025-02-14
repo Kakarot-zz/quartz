@@ -1,6 +1,6 @@
 ---
 title: 飞智八爪鱼4Eva限定手柄
-draft: true
+draft: false
 tags:
   - Gaming Device
   - 飞智
