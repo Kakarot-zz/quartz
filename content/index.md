@@ -2,9 +2,10 @@
 title: Welcome
 ---
 
-This is June's personal site, 
+Hello , I'm June(Wangjun).
 
-Primarily used to share and document some of the fun and interesting things I've purchased.
+This site is mainly dedicated to showcasing the fun and intriguing items I've acquired.
+
 
 ### About Me
 
